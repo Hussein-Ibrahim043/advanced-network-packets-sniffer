@@ -18,7 +18,7 @@ This repository contains a comprehensive network packet sniffer and analyzer scr
 
 1. Clone the repository:
 
-   git clone https://github.com/Hussein-Ibrahim043/advanced-network-packet-sniffer.git
+   git clone https://github.com/Hussein-Ibrahim043/advanced-network-packets-sniffer.git
 
 2. Navigate to the project directory:
 
